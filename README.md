@@ -1,8 +1,19 @@
 # Mon Projet
 
 ## Sous-titre 1
-Texte normal, **gras**, *italique*.
 
 Exemple de code sample python :
 
-print("Hello World")
+```python
+print("Hello, World!")
+````
+
+## Sous-titre 2
+
+Texte normal, **Texte gras**, *Texte italique*.
+
+Exemple de code sample html :
+
+```html
+ <h1>Hello, World!</h1>
+````
